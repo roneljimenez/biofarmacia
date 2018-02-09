@@ -18,7 +18,6 @@
   <body>
      @include('components.menu.desktop')
 
-
     <main role="main">
 
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
