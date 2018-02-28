@@ -2,3 +2,15 @@ body {
   background-color: #fff;
 }
 
+.marketing-title-medium {
+  min-height: 76px;
+  margin-top: 1rem;
+}
+
+.marketing-title-big,
+.featurette-title-big {
+  font-size: 45px;
+  font-weight: bold;
+  margin: 2rem 0;
+}
+
